@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://donacgreece.github.io/Portofolio/">
-    <img src="https://raw.githubusercontent.com/Donacgreece/Portofolio/main/docs/og.png" alt="Dimitris Galatsanos Portfolio" width="100%" />
+ width="100%" />
   </a>
 </div>
 
-<h1 align="center">Dimitris Galatsanos</h1>
+
 
 <p align="center">
   <strong>IT Systems Engineer · Software Developer · Technical Writer</strong>
