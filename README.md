@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://donacgreece.github.io/Portofolio/">
- width="100%" />
   </a>
 </div>
 
